@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# ignore these project files
+./server/uploads/
+./server/node_modules/
+./client/node_modules/
+./server/.env
+./.idea
+./server/.idea
+./client/.idea
