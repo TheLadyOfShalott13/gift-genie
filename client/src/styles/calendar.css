@@ -1,0 +1,13 @@
+.birthday{
+    background-color: deeppink;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 10px;
+}
+
+.date{
+    display: block;
+    font-weight: bold;
+}
+
