@@ -1,4 +1,4 @@
-# Personal Relationship Management (PRM) System
+# Gift Genie - A Personal Relationships Management System (Automating the process of gift gifting so you don't have to)
 
 ## Project Specifications
 This project is used to demonstrate an example of **MERN stack (MongoDB, Express.js, React.js, Node.js) CRUD application** with file management using the **Multer** library. The ODM used here is **mongoose**. The backend is hosted as a **microservice**, each CRUD action invokes an **API** to a service. Login authentication is done using **JWT**.
